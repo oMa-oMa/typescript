@@ -1,2 +1,2 @@
 # typescript
-记录
+记录。
